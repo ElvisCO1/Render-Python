@@ -2,3 +2,6 @@ dash
 dash-leaflet
 geopandas
 gunicorn
+numpy
+pandas
+plotly
