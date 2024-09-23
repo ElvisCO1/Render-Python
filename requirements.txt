@@ -1,5 +1,5 @@
 dash==2.9.2
-dash-leaflet==1.0.16
+dash-leaflet==1.0.15
 geopandas==0.10.2
 gunicorn==20.1.0
 numpy==1.24.2
