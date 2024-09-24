@@ -1,5 +1,0 @@
-dash
-dash-leaflet
-dash-html-components
-geopandas
-gunicorn
